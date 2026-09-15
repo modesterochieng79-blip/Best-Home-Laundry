@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Best Home Laundry Services</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Navigation Bar -->
+    <nav>
+        <div class="logo">
+            Best Home Laundry
+        </div>
+
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#prices">Prices</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+
+    <!-- Home Section -->
+    <section id="home" class="hero">
+
+        <div class="hero-content">
+
+            <h1>Best Home Laundry Services</h1>
+
+            <h2>Clean Clothes, Happy Homes</h2>
+
+            <p>
+                We provide reliable and affordable laundry services
+                to individuals, families and businesses.
+            </p>
+
+            <a href="#contact" class="button">
+                Contact Us
+            </a>
+
+        </div>
+
+    </section>
+
+
+    <!-- About Us -->
+    <section id="about" class="section">
+
+        <h2>About Us</h2>
+
+        <p>
+            Best Home Laundry Services is a laundry business
+            that provides quality and reliable laundry services
+            to customers. We help our customers save time by
+            taking care of their laundry needs.
+        </p>
+
+        <p>
+            Our services include washing, drying, ironing,
+            folding and delivery. We are committed to keeping
+            clothes clean and well handled.
+        </p>
+
+    </section>
+
+
+    <!-- Services -->
+    <section id="services" class="section services-section">
+
+        <h2>Our Services</h2>
+
+        <div class="services-container">
+
+            <div class="service-card">
+                <h3>Washing</h3>
+                <p>
+                    Professional washing of clothes using
+                    proper cleaning methods.
+                </p>
+            </div>
+
+
+            <div class="service-card">
+                <h3>Drying</h3>
+                <p>
+                    Proper drying of clothes to keep them
+                    fresh and ready for use.
+                </p>
+            </div>
+
+
+            <div class="service-card">
+                <h3>Ironing</h3>
+                <p>
+                    Neat ironing to give your clothes a clean
+                    and presentable appearance.
+                </p>
+            </div>
+
+
+            <div class="service-card">
+                <h3>Folding</h3>
+                <p>
+                    Clothes are carefully folded and prepared
+                    for collection or delivery.
+                </p>
+            </div>
+
+
+            <div class="service-card">
+                <h3>Home Delivery</h3>
+                <p>
+                    We can arrange collection and delivery of
+                    laundry to make our service convenient.
+                </p>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Price List -->
+    <section id="prices" class="section">
+
+        <h2>Our Price List</h2>
+
+        <table>
+
+            <tr>
+                <th>Service</th>
+                <th>Price</th>
+            </tr>
+
+            <tr>
+                <td>Washing</td>
+                <td>KSh 100</td>
+            </tr>
+
+            <tr>
+                <td>Ironing</td>
+                <td>KSh 50</td>
+            </tr>
+
+            <tr>
+                <td>Folding</td>
+                <td>KSh 50</td>
+            </tr>
+
+            <tr>
+                <td>Washing & Ironing</td>
+                <td>KSh 150</td>
+            </tr>
+
+            <tr>
+                <td>Home Delivery</td>
+                <td>KSh 100</td>
+            </tr>
+
+        </table>
+
+        <p class="price-note">
+            Prices may vary depending on the quantity and type
+            of clothes.
+        </p>
+
+    </section>
+
+
+    <!-- Why Choose Us -->
+    <section class="section why-section">
+
+        <h2>Why Choose Us?</h2>
+
+        <div class="why-container">
+
+            <div class="why-card">
+                <h3>Quality Service</h3>
+                <p>
+                    We aim to provide clean and well-handled
+                    laundry.
+                </p>
+            </div>
+
+            <div class="why-card">
+                <h3>Affordable Prices</h3>
+                <p>
+                    Our services are offered at affordable
+                    prices.
+                </p>
+            </div>
+
+            <div class="why-card">
+                <h3>Reliable</h3>
+                <p>
+                    We value our customers and aim to complete
+                    services on time.
+                </p>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Contact -->
+    <section id="contact" class="section contact-section">
+
+        <h2>Contact Us</h2>
+
+        <p>
+            Get in touch with us for laundry services and
+            enquiries.
+        </p>
+
+        <div class="contact-info">
+
+            <p>
+                <strong>Phone:</strong>
+                0796016401
+            </p>
+
+            <p>
+                <strong>Email:</strong>
+                besthomelaundry@example.com
+            </p>
+
+            <p>
+                <strong>Location:</strong>
+                Oyugis Town, Kenya
+            </p>
+
+            <p>
+                <strong>Opening Hours:</strong>
+                Monday - Saturday, 8:00 AM - 6:00 PM
+            </p>
+
+        </div>
+
+        <a href="tel:0796016401" class="button">
+            Call Us
+        </a>
+
+    </section>
+
+
+    <!-- Footer -->
+    <footer>
+
+        <p>
+            &copy; 2026 Best Home Laundry Services.
+            All Rights Reserved.
+        </p>
+
+    </footer>
+
+</body>
+</html>
